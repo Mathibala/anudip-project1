@@ -62,12 +62,6 @@ Calculates the time remaining until next January 1st:
 setInterval(refresh,1000);
 
 ▶️ How to Use
-
-Download or clone the repo:
-
-git clone https://github.com/your-username/new-year-countdown.git
-
-
 Make sure the image img.jpeg is present in the root folder.
 
 Open index.html in your browser.
