@@ -77,3 +77,7 @@ The countdown starts automatically.
 📸 Screenshot (Optional)
 
 You can add an image here later:
+
+<img width="1366" height="768" alt="anudip project picture" src="https://github.com/user-attachments/assets/6b5c3fee-48e6-4a4a-9f76-97ef60f4ad8c" />
+
+
